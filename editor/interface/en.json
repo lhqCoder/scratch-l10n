@@ -523,5 +523,6 @@
     "gui.theme.default": "Original",
     "gui.theme.dark": "Dark",
     "gui.theme.highContrast": "High Contrast",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "艾娃编程作品",
+    "gui.menuBar.mypojects":"mypojects"
 }
